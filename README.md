@@ -54,7 +54,7 @@ Let's Connect!
 - Private Email: elia.albaba55@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/elia-albaba-419585235/)
 
-### Hobbies
+## Hobbies
 - 🎶 Favorite music genre: Rap
 - 🎮 Favorite game: Minecraft
 - 📺 Favorite TV Series: One Piece
