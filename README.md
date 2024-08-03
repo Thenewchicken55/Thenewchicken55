@@ -1,4 +1,24 @@
-# Elia Albaba
+<h1 align="center">Hi 👋, I'm Elia Albaba</h1>
+<h3 align="center">Majoring in Computer Science at the University of Akron</h3>
+
+- 🔭 I’m currently working on **Game GPT**
+
+- 🌱 I’m currently learning **Web Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Thenewchicken55](https://github.com/Thenewchicken55)
+
+- 📫 How to reach me **elia.albaba55@gmail.com**
+
+- ⚡ Fun fact **I am fluent in Arabic**
+
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+
 
 ## About Me
 Hola! 👋 I'm Elia (pronounced EL-EE-AH), and I'm a Sophomore at the University of Akron majoring in Computer Science. So far I can't put my finger on a specific area of Computer Science that I like most. I am interested in everything from Computer System Architecture to the Operating System and the Hardware-Software interface, Algorithms and time complexity analysis, or even something as high-level as Object-Oriented Programming and UML. I am excited to keep learning about Computer Science and appreciate all the intricate hard work that was done before me.
@@ -28,31 +48,16 @@ I was in charge of programming the [vision system](https://github.com/FRC-4121/4
 - (WIP) CLI-GUI
     - A GUI on top of the Linux command-line where it has buttons that paste a specific command into the console. This can be done as a shortcut to save time, or a suggestion feature could be implemented where the program tries to predict the next command that the user might send, and clicking the button will save the user that much time.
 
-### Programming Languages:
-I am constantly learning new languages, but so far I have used these languages in projects in order from most familiar to least:
-- C++
-- Java
-- Python
-- C
-- C#
-- HTML/CSS
 
 ### Favorite Software
-- VS Code
-- Git
-- Linux Environment
-- WSL
+- [VS Code](https://code.visualstudio.com/)
 - [Photopea](https://www.photopea.com/)
 - [Croc](https://github.com/schollz/croc)
 - [SpotDL](https://github.com/spotDL/spotify-downloader)
 - [Spotify-TUI](https://github.com/Rigellute/spotify-tui)
 - [Discordo](https://github.com/ayn2op/discordo)
 
-## Contact
-Let's Connect!
-- School Email: ea152@uakron.edu
-- Private Email: elia.albaba55@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/elia-albaba-419585235/)
+
 
 ## Hobbies
 - 🎶 Favorite music genre: Rap
