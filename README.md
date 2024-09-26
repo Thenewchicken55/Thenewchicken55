@@ -21,7 +21,7 @@
 
 
 ## About Me
-Hola! 👋 I'm Elia (pronounced EL-EE-AH), and I'm a Sophomore at the University of Akron majoring in Computer Science. So far I can't put my finger on a specific area of Computer Science that I like most. I am interested in everything from Computer System Architecture to the Operating System and the Hardware-Software interface, Algorithms and time complexity analysis, or even something as high-level as Object-Oriented Programming and UML. I am excited to keep learning about Computer Science and appreciate all the intricate hard work that was done before me.
+Hola! 👋 I'm Elia (pronounced EL-EE-AH), and I'm a Senior at the University of Akron majoring in Computer Science. So far I can't put my finger on a specific area of Computer Science that I like most. I am interested in everything from Computer System Architecture to the Operating System and the Hardware-Software interface, Algorithms and time complexity analysis, or even something as high-level as Object-Oriented Programming and UML. I am excited to keep learning about Computer Science and appreciate all the intricate hard work that was done before me.
 
 ## Experience
 Although my experience is limited, I am committed to pushing my boundaries, embracing challenges, and continuously striving for improvement in my coding journey.
