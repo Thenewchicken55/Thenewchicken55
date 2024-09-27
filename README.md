@@ -45,6 +45,8 @@ I was in charge of programming the [vision system](https://github.com/FRC-4121/4
     - Using **Python**, take a message, convert it to a number using sha256() hashing, and encrypt this number using an RSA algorithm efficiently
 - [Simple Linux Shell](https://github.com/Thenewchicken55/Simple-Linux-Shell)
     - Using **C**, this program simulates a shell by reading in user input to the console and executing specific functionality similar to Linux commands. As a matter of fact, on top of the custom commands, this program allows you to run Linux commands as well.
+- [Game GPT](https://github.com/Thenewchicken55/Game-GPT-Build)
+    - This project implements AI into Unity3D in an effort to show how games could improve NPC dialogues. The program uses an HTTP Request in C# with Groq API to get an AI response.
 - (WIP) [JES Budgeting Tool](https://github.com/Thenewchicken55/JES)
     - JES is an app that helps users manage their monthly budgets and keeping track of their transactions such that they can satisfy their financial goals.
     - This offers various other benefits along with budgeting tool, like stock tracking, AI Chatbot, and current news and articles.
