@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elia Albaba</h1>
 <h3 align="center">Majoring in Computer Science at the University of Akron</h3>
 
-- 🔭 I’m currently working on **Game GPT**
+- 🔭 I’m currently working on **JES Financial Budgeting Tool**
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -45,6 +45,11 @@ I was in charge of programming the [vision system](https://github.com/FRC-4121/4
     - Using **Python**, take a message, convert it to a number using sha256() hashing, and encrypt this number using an RSA algorithm efficiently
 - [Simple Linux Shell](https://github.com/Thenewchicken55/Simple-Linux-Shell)
     - Using **C**, this program simulates a shell by reading in user input to the console and executing specific functionality similar to Linux commands. As a matter of fact, on top of the custom commands, this program allows you to run Linux commands as well.
+- (WIP) [JES Budgeting Tool](https://github.com/Thenewchicken55/JES)
+    - JES is an app that helps users manage their monthly budgets and keeping track of their transactions such that they can satisfy their financial goals.
+    - This offers various other benefits along with budgeting tool, like stock tracking, AI Chatbot, and current news and articles.
+    - This is a group project to express skills in database management systems
+    - Uses **Node.js** and **mySQL**
 - (WIP) CLI-GUI
     - A GUI on top of the Linux command-line where it has buttons that paste a specific command into the console. This can be done as a shortcut to save time, or a suggestion feature could be implemented where the program tries to predict the next command that the user might send, and clicking the button will save the user that much time.
 
