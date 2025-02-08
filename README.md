@@ -47,11 +47,13 @@ I was in charge of programming the [vision system](https://github.com/FRC-4121/4
     - Using **C**, this program simulates a shell by reading in user input to the console and executing specific functionality similar to Linux commands. As a matter of fact, on top of the custom commands, this program allows you to run Linux commands as well.
 - [Game GPT](https://github.com/Thenewchicken55/Game-GPT-Build)
     - This project implements AI into Unity3D in an effort to show how games could improve NPC dialogues. The program uses an HTTP Request in C# with Groq API to get an AI response.
-- (WIP) [JES Budgeting Tool](https://github.com/Thenewchicken55/JES)
+- [JES Budgeting Tool](https://github.com/Thenewchicken55/JES) [preview](http://jesbudget.com/)
     - JES is an app that helps users manage their monthly budgets and keeping track of their transactions such that they can satisfy their financial goals.
     - This offers various other benefits along with budgeting tool, like stock tracking, AI Chatbot, and current news and articles.
     - This is a group project to express skills in database management systems
     - Uses **Node.js** and **mySQL**
+- [What's Poppin News Website](https://isp-project.vercel.app/)
+    - Developed a full-stack application using MongoDB to store news articles and React for the frontend. Users can navigate recent and trending unbiased news articles.
 - (WIP) CLI-GUI
     - A GUI on top of the Linux command-line where it has buttons that paste a specific command into the console. This can be done as a shortcut to save time, or a suggestion feature could be implemented where the program tries to predict the next command that the user might send, and clicking the button will save the user that much time.
 
