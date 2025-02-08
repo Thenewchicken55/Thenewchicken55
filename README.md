@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elia Albaba</h1>
 <h3 align="center">Majoring in Computer Science at the University of Akron</h3>
 
-- 🔭 I’m currently working on **JES Financial Budgeting Tool**
+- 🔭 I’m currently working on **Immersive Simulator Game in Unity**
 
 - 🌱 I’m currently learning **Web Development**
 
