@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Elia </h1>
 <h3 align="center">Majoring in Computer Science at the University of Akron</h3>
 
-- 🔭 I’m currently working on **Immersive Simulator Game in Unity**
+- 🔭 I’m currently working on **Quantum Chess Game** [link](https://github.com/ZipCode-UA/QuantumChess) 
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -21,7 +21,7 @@
 
 
 ## About Me
-Hola! 👋 I'm Elia (pronounced EL-EE-AH), and I'm a Senior at the University of Akron majoring in Computer Science. So far I can't put my finger on a specific area of Computer Science that I like most. I am interested in everything from Computer System Architecture to the Operating System and the Hardware-Software interface, Algorithms and time complexity analysis, or even something as high-level as Object-Oriented Programming and UML. I am excited to keep learning about Computer Science and appreciate all the intricate hard work that was done before me.
+Hola! 👋 I'm Elia (pronounced EL-EE-AH), and I'm a Senior at the University of Akron majoring in Computer Science. So far I can't put my finger on a specific area of Computer Science that I like most. I am interested in everything from Computer System Architecture to the Operating System and the Hardware-Software interface, Algorithms and time complexity analysis, or even something as high-level as Object-Oriented Programming. I am excited to keep learning about Computer Science and appreciate all the intricate hard work that was done before me.
 
 ## Experience
 Although my experience is limited, I am committed to pushing my boundaries, embracing challenges, and continuously striving for improvement in my coding journey.
@@ -30,7 +30,7 @@ During my time at Hoover High School in North Canton, I was part of a team desig
 
 I was in charge of programming the [vision system](https://github.com/FRC-4121/4121-Vision) in **Python**, but I also helped design the main [drive train program](https://github.com/FRC-4121/2022-Robot-V2) in **Java**. This opportunity was considered a simulated work environment that taught me to have good teamwork and problem-solving skills since I had to work with the Mechanical and Electrical teams to design this robot from scratch.
 
-
+I joined a NASA robotics club later in college but the schedule was conflicted so that didn't go far. I also joined ZipCode club at the University of Akron where we gather together and program some projects together. See [Quantum Chess](https://github.com/ZipCode-UA/QuantumChess)
 ### Projects
 
 - Web Scraping application
@@ -77,6 +77,7 @@ I was in charge of programming the [vision system](https://github.com/FRC-4121/4
     - Arabic
     - (WIP) Spanish
     - (WIP) French
+    - (WIP) Italian
 
 
 <!---
